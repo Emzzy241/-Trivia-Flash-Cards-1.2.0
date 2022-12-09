@@ -30,7 +30,7 @@ _In this great application I made use of the Trivia API to have amazing features
 * _Note: This is version 1.2.0 of the application where both logic(business and UI logic) were separated into their respective files and also a new technology called fetch API was used_
 
 ## WebLink
-https://emzzy241.github.io/Trivia-Flash-Cards/
+https://emzzy241.github.io/-Trivia-Flash-Cards-1.2.0/
 
 ## License
 Licensed under the GNU General Public License
