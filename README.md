@@ -13,7 +13,7 @@
 * JSON
 * Trivia API
 * Promise
-* Fetch
+* Fetch   
 
 ## Description
 _In this great application I made use of the Trivia API to have amazing features incorporated into my App, below I will be giving users instructions on how to set up this amazing application on their Laptops. In this app you get a combination of Trivia(a great Question and answers) App and your normal Quiz App... Have fun :)_
@@ -30,7 +30,7 @@ _In this great application I made use of the Trivia API to have amazing features
 * _Note: This is version 1.2.0 of the application where both logic(business and UI logic) were separated into their respective files and also a new technology called fetch API was used_
 
 ## WebLink
-https://emzzy241.github.io/-Trivia-Flash-Cards-1.2.0/
+https://emzzy241.github.io/Trivia-Flash-Cards-1.2.0/
 
 ## License
 Licensed under the GNU General Public License
